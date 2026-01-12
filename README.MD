@@ -22,7 +22,7 @@ Com o Node.js instalado, siga o passo abaixo:
 1. Abra o terminal e clone o repositório utilizando:
 ```bash
 git clone https://github.com/Alissomberg/BootcampTascom-lista3.git
-
+``` 
 2. Abra um terminal na pasta dos exercícios e então digite:
 ```bash 
 node nome-do-arquivo.js

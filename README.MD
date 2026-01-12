@@ -17,9 +17,8 @@ O objetivo desta etapa foi consolidar os pilares fundamentais da programação, 
 * Git e GitHub
 
 ## Como usar
-Com o Node.js instalado, siga os passos abaixo:
+Com o Node.js instalado, siga o passo abaixo:
 
-1. Navegue até a pasta do nível desejado (ex: Nível 1):
 2. Abra um terminal na pasta escolhida e então digite:
 ```bash 
 node nome-do-arquivo.js

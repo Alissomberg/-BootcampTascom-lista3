@@ -1,0 +1,25 @@
+# Bootcamp Tascom & ETE JBL - Lista de Exercícios 01
+
+Este repositório foi criado para documentar e organizar a resolução da lista 3 do Bootcamp Tascom realizado em parceria com a ETE JBL.
+
+## Sobre o Projeto
+O objetivo desta etapa foi consolidar os pilares fundamentais da programação, garantindo uma base sólida para o desenvolvimento de sistemas mais complexos. 
+
+## O que foi aprendido
+* Arrays (Vetores)
+* Uso de funções para organização do código
+* Exibição de dados no console.
+* Versionamento de código utilizando Git e GitHub.
+
+## Tecnologias utilizadas
+* JavaScript
+* Node.js
+* Git e GitHub
+
+## Como usar
+Com o Node.js instalado, siga os passos abaixo:
+
+1. Navegue até a pasta do nível desejado (ex: Nível 1):
+2. Abra um terminal na pasta escolhida e então digite:
+```bash 
+node nome-do-arquivo.js

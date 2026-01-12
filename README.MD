@@ -1,4 +1,4 @@
-# Bootcamp Tascom & ETE JBL - Lista de Exercícios 01
+# Bootcamp Tascom & ETE JBL - Lista de Exercícios 03
 
 Este repositório foi criado para documentar e organizar a resolução da lista 3 do Bootcamp Tascom realizado em parceria com a ETE JBL.
 

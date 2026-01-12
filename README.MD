@@ -19,6 +19,8 @@ O objetivo desta etapa foi consolidar os pilares fundamentais da programação, 
 ## Como usar
 Com o Node.js instalado, siga o passo abaixo:
 
-2. Abra um terminal na pasta escolhida e então digite:
+1. Abra o terminal e clone o repositório utilizando git clone https://github.com/Alissomberg/BootcampTascom-lista3.git
+2. Abra um terminal na pasta dos exercícios e então digite:
 ```bash 
 node nome-do-arquivo.js
+
